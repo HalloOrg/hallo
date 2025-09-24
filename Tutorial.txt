@@ -1,0 +1,7 @@
+You copy the code of inject.js either using the copy raw button or, using CTRL + C 
+
+
+After you have copied the code you want to go to the blooket, make sure you are in game and double-tap on your mousepad with two fingers or, right-click on your mouse.
+
+
+Then go to the console where it says up to Ctrl + v and if it says "allow pasting", then just type it, then presses Ctrl + v. That is how you use the Gui. Thank you now.
