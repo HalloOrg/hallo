@@ -1,4 +1,4 @@
---Bookmark this on your school account for it to be used easier instead of dooing the whole process lol
+//Bookmark this on your school pc for easier way to inject, by copying the code and putting it in there for url
 
 
 (async () => {
