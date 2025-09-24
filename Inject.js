@@ -1,3 +1,6 @@
+--Bookmark this on your school account for it to be used easier instead of dooing the whole process lol--
+
+
 (async () => {
     _blsbu = "https://www.googleapis.com";
     var wfcall = window.fetch.call;
